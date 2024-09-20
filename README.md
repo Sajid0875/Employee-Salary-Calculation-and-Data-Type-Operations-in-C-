@@ -1,3 +1,21 @@
+Lab assesment ,This programming has done on the requirments of below questions,
+Question: 01. 
+Write a program which takes , employee id,                                                
+and total days mean 30 days. Suppose user will get 1000 for one days. 
+calculate his total salary for the month. Suppose his allowance for the month is 
+22 percent of his salary. So also shows his salary and total allowance. Use expression
+in one line. use type casting concept in this question.  
+There are total 100 employess in the organization, suppose 2 
+employees are hired by HR Section. So use unary operator
+and shows total employees. Compare user equality operator (==)employee id with another 
+employee id = 100 and show the result as boolean result. 
+Note: Two employees should not have same employee id. 
+
+Question: 02: 2.5 Write a program which takes boolean variable and character variable and
+convert implicitly to integer data type by compiler. Show the data type on console. 
+Question: 03:
+2.5 Use static_cast operator and type cast operator for conversion.
+
 # Employee Salary Calculation and Data Type Operations in C++
 
 ## Overview
